@@ -1,0 +1,44 @@
+﻿budgetItem,classificationType,variable,description,colType
+INCOMES,,REP_PERIOD , Місяць та рік,c
+INCOMES,,FUND_TYP , Тип фонду,f
+INCOMES,,COD_BUDGET , Код бюджету,c
+INCOMES,,COD_INCO , Код доходу,i
+INCOMES,,NAME_INC , Найменування коду доходу,c
+INCOMES,,ZAT_AMT , Розпис на рік з урахуванням змін,d
+INCOMES,,PLANS_AMT , Кошторисні призначення на рік з урахуванням змін,d
+INCOMES,,FAKT_AMT , Виконано за період,d
+INCOMES,,DONE_CORR_YEAR_PCT ," Виконання до уточненого річного розпису,%",d
+FINANCING_DEBTS,,REP_PERIOD  , Місяць та рік,c
+FINANCING_DEBTS,,FUND_TYP , Тип фонду,f
+FINANCING_DEBTS,,COD_BUDGET , Код бюджету,c
+FINANCING_DEBTS,,COD_FINA , Код ,i
+FINANCING_DEBTS,,NAME_FIN , Найменування,c
+FINANCING_DEBTS,,ZAT_AMT , Розпис на рік з урахуванням змін,d
+FINANCING_DEBTS,,FAKT_AMT , Виконано за період,d
+FINANCING_DEBTS,,DONE_CORR_YEAR_PCT ," Виконання до уточненого річного рохпису, %",d
+EXPENSES,ECONOMIC,REP_PERIOD , Місяць та рік  ,c
+EXPENSES,ECONOMIC,FUND_TYP , Тип фонду,f
+EXPENSES,ECONOMIC,COD_BUDGET , Код бюджету,c
+EXPENSES,ECONOMIC,COD_CONS_EK , Код економічної класифікації (КЕК),i
+EXPENSES,ECONOMIC,COD_CONS_EK_NAME , Найменування КЕК,c
+EXPENSES,ECONOMIC,ZAT_AMT , Розпис на рік з урахуванням змін,d
+EXPENSES,ECONOMIC,PLANS_AMT , Кошторисні призначення на рік з урахуванням змін,d
+EXPENSES,ECONOMIC,FAKT_AMT , Виконано за період,d
+EXPENSES,ECONOMIC,FAKT_V2MB_AMT , Виконано за період (в т.ч. на рахунках у банках),d
+EXPENSES,ECONOMIC,FAKTSIK_AMT , в т.ч. за іншими коштами спеціального фонду,d
+EXPENSES,ECONOMIC,FAKTSIK_V2MB_AMT , в т.ч. за іншими коштами спеціального фонду (в т.ч. на рахунках у банках),d
+EXPENSES,ECONOMIC,FAKTSPP_AMT ," в т.ч. із плати за послуги, що надаються бюджетним установам",d
+EXPENSES,ECONOMIC,FAKTSPP_V2MB_AMT ," в т.ч. із плати за послуги, що надаються бюджетним установам (в т.ч. на рахунках у банках)",d
+EXPENSES,ECONOMIC,FAKTSID_AMT , в т.ч. за іншими джерелами власних надходжень бюджетних установ,d
+EXPENSES,ECONOMIC,FAKTSID_V2MB_AMT , в т.ч. за іншими джерелами власних надходжень бюджетних установ (в т.ч. на рахунках у банках),d
+EXPENSES,ECONOMIC,DONE_CORR_YEAR_PCT ," Виконання до уточненого річного розпису, %",d
+CREDITS,CREDIT,REP_PERIOD , Місяць та рік  ,c
+CREDITS,CREDIT,FUND_TYP , Тип фонду,f
+CREDITS,CREDIT,COD_BUDGET , Код бюджету,c
+CREDITS,CREDIT,COD_CRED_KK ,Код Класифікації Кредитування,i
+CREDITS,CREDIT,COD_CRED_KK_NAME ,Найменування ККК,c
+CREDITS,CREDIT,ZAT_AMT ,Розпис на рік з урахуванням змін,d
+CREDITS,CREDIT,PLANS_AMT ,Кошторисні призначення на рік з урахуванням змін,d
+CREDITS,CREDIT,FAKT_AMT ,Виконано за період,d
+CREDITS,CREDIT,FAKTBN_AMT ,Виконано за період (в т.ч. на рахунках у банках),d
+CREDITS,CREDIT,DONE_CORR_YEAR_PCT,"Виконання до уточненого річного розпису, %",d
